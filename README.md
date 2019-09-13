@@ -1,4 +1,4 @@
-# Gruppe-6---Semesterprojekt-3
+# Gruppe 6 Semesterprojekt-3
 Dette er Gruppe 6's samlet placering af dokumenter
 
 ## Guide til Github/Git
