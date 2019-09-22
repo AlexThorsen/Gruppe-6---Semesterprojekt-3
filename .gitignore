@@ -1,4 +1,4 @@
-# Prevent users to commit their owm RProject
+# Prevent users to commit their own RProject
 .Rproj.user
 .Rproj
 # Prevent users to commit thier own .RData and .Rhistory in mutual area
@@ -16,4 +16,27 @@
 # Prevent users to commit the README files created by RStudio
 *README.html
 *README_cache/
-#*README_files/
+# Prevent users from commiting their own latex files / useless files.
+*.aux
+*.glo
+*.idx
+*.log
+*.toc
+*.ist
+*.acn
+*.acr
+*.alg
+*.bbl
+*.blg
+*.dvi
+*.glg
+*.gls
+*.ilg
+*.ind
+*.lof
+*.lot
+*.maf
+*.mtc
+*.mtc1
+*.out
+*.synctex.gz
