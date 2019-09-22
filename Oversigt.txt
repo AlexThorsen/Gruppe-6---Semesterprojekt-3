@@ -1,0 +1,33 @@
+0. Eksterne Dokumenter
+	LM75.pdf
+1. Forarbejde
+	Planlægning
+		Gruppe 6 - Semesterprojekt 3 Ganttkort.gan
+	Projektformulering
+		Moscow af projekt.docx
+		Projekt beskrivelse.docx
+		Projektformulering.docx
+		Rige billede af projekt.png
+	Risiko analyse
+		Overorndet risikoanalyse.xlsx
+		Risikoanalyse_teknik.docx
+	Teknologi analyse
+		I2C.docx
+		SPI.docx
+		Termometer.docx
+		UART - RPI.docx
+	Ordliste.docx
+	Procesbeskrivelse.docx
+	Sammenarbejdskontrakt.docx
+2. Aktiv Dokumentation
+	Agenda
+	Logbog
+	Referat
+3. Systemspecifikation
+	Accepttestspecfikation
+	Kravspecifikation
+		Use-case Diagrammer
+4. Systemarkitektur
+	BDD.vsdx
+oo. Nye Dokumenter
+	
